@@ -35,7 +35,7 @@ We can search PyPi for libraries using the search bar on the site.
 
 ![Example image for uploader](https://curriculum-content.s3.amazonaws.com/pypiscreenshot.png)
 
-## Installing packages from Pip
+## Installing Packages using Pip
 
 We can use the Pip command to install python packages from the Python Package Index (PyPi).
 Lets practice this using a package called `requests`.
@@ -87,7 +87,7 @@ pip uninstall requests
 ## Conclusion
 
 Pip can be used to install packages from the Python Package Index. It gives us access
-to a large amount of libraries to help us develop.
+to many libraries to help us develop.
 ***
 
 ## Resources
